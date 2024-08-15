@@ -1,8 +1,10 @@
 body{
-   background-image: url(fondo.jpg);
+   background-image: url(fondo.jpg) ;
+   background-position: 100%;
     font-family: Arial, Helvetica, sans-serif;
       background-position: center center;
-     
+    background-size: cover;
+
 }
 
 #container{
